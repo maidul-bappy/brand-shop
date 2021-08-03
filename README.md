@@ -4,7 +4,7 @@
 
 
 
-![screenshot](https://github.com/maidul-bappy/brand_shop/blob/master/uploads/brandShopHome.png)
+![screenshot]((brandShopHome.png))
 
 ## Features
 
@@ -35,7 +35,7 @@
 - **Express**
 - **MongoDB**
 
-### `Website Link :` []()
+###  [Website Link](https://brandshopapp.herokuapp.com/)
 
 
 Sample User Logins
