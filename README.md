@@ -3,7 +3,7 @@
 > e-Commerce platform built with the MERN stack & Redux.
 
 
-![screenshot](uploads/brandShopHome.png)
+![screenshot](https://github.com/maidul-bappy/brand-shop/blob/master/uploads/brandshopapp-herokuapp1.png)
 
 ## Features
 
